@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://sportsmintmedia.com/wp-content/uploads/2021/04/IPL-2021_-Drop-in-opening-game-viewership-compared-to-IPL-2020-1024x538.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.main{
+    height: 20px;
+    background-color: white;
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 520px;
+    margin-left: 1100px;
+}
+
+a{
+    text-decoration: none;
+}
